@@ -1,2 +1,2 @@
 Karthik,25
-Amogh Uday Shet
+Amogh Uday Shet,100
